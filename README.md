@@ -1,8 +1,8 @@
 
-##Dental-Caries-Detection
+#Dental-Caries-Detection
 
 
--Dental caries detection holds the key to unlocking brighter smiles and healthier lives by identifying one of the 
+- Dental caries detection holds the key to unlocking brighter smiles and healthier lives by identifying one of the 
 most common oral health issues early on. This vital topic sheds light on innovative ways to combat tooth decay, 
 empowering individuals to take control of their oral health and maintain radiant smiles. This research paper delves 
 into the realm of transfer learning techniques, aiming to elevate the precision and efficacy of dental caries 
