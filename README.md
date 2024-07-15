@@ -1,5 +1,5 @@
 
-#Dental-Caries-Detection
+# Dental-Caries-Detection
 
 
 - Dental caries detection holds the key to unlocking brighter smiles and healthier lives by identifying one of the 
